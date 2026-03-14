@@ -1,6 +1,8 @@
 name: flutter_copper_shader_example
 description: "Flutter Copper Shader Example"
 publish_to: 'none'
+homepage: https://github.com/NeKoFu/flutter_copper_shader
+license: MIT
 
 version: 1.0.0
 

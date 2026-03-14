@@ -10,6 +10,10 @@ Integrate GLSL shader backgrounds into your Flutter applications with ease. `flu
 - **High Performance:** Isolates rendering within a `RepaintBoundary` and uses a lightweight `CustomPainter` synced onto the display refresh rate (Ticker).
 - **Interactive:** Built-in gesture detection to dynamically update shader physics via `iMouse`.
 
+<p align="center">
+  <img style="height: 480px;" src="https://raw.githubusercontent.com/NeKoFu/flutter_copper_shader/refs/heads/main/shaders.png" />
+</p>
+
 ## Installation
 
 Add the following to your `pubspec.yaml`:

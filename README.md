@@ -20,7 +20,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_copper_shader: ^1.0.0
+  flutter_copper_shader: ^1.0.1
 ```
 
 _Note: Since this package relies on standard Flutter shader fragments, ensure your Flutter SDK is `^3.41.1` or higher._

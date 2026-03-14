@@ -1,6 +1,6 @@
 name: flutter_copper_shader
-description: "Integrate GLSL shader backgrounds with Flutter."
-version: 1.0.0
+description: "Integrate GLSL shader backgrounds for Flutter. Supports ShaderToy uniforms, textures & custom params. Impeller-ready, smooth performance."
+version: 1.0.1
 homepage: https://github.com/NeKoFu/flutter_copper_shader
 license: MIT
 

@@ -101,7 +101,7 @@ void main() {
 }
 ```
 
-## Example Application
+## Example
 
 Check out the [example](https://github.com/NeKoFu/flutter_copper_shader/tree/main/example) folder in this repository for a comprehensive visual showcase featuring dynamic shader swapping, Plasma, and Starfield effects.
 
@@ -114,3 +114,11 @@ This package includes several shaders inspired by or adapted from the incredible
 - 2D Clouds - by **drift** 2016
 - Rhodium - by Jochen **"Virgill"** Feldkötter
 - Sparks drifting - **Ian McEwan**, Ashima Arts 2017
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.

@@ -1,0 +1,25 @@
+name: flutter_copper_shader_example
+description: "Flutter Copper Shader Example"
+publish_to: 'none'
+
+version: 1.0.0
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.41.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animate_do: ^4.2.0
+  flutter_copper_shader:
+    path: ..
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+
+flutter:
+  uses-material-design: true
